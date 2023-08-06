@@ -5,15 +5,15 @@
 
 Pre-analysis has determined that there is six signals (3 continuous/analogue and 3 discrete/digital) in total and could potentially be the following modulations:
  * **AMDSB**    (Amplitude modulation double side band)
- * **OOK**      (On-Off Keying)
+ * **OOK**      (On-Off keying)
  * **PSK**      (Phase shift Keying)
- * **FM**       (Frequency Modulation)
+ * **FM**       (Frequency modulation)
  * **AMSSB**    (Amplitude modulation single Side Band)
  * **FHSS**     (Frequency hopping Spread spectrum)
  * **CW**       (Continuous Wave - Tone)
  * **FSK**      (Frequency shift Keying)
- * **OFDM**     (Orthogonal Frequency division multiplexing)
- * **DSSS**     (Direct Sequence spread spectrum)
+ * **OFDM**     (Orthogonal frequency division multiplexing)
+ * **DSSS**     (Direct sequence spread spectrum)
 
 Open the ```ctf_sigid_flag``` file using one of the suggested tools and use you RF analysis skills to identify all the signals to create the flag.
 
