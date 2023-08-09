@@ -15,7 +15,7 @@ Pre-analysis has determined that there is six signals (3 continuous/analogue and
  * **OFDM**     (Orthogonal frequency division multiplexing)
  * **DSSS**     (Direct sequence spread spectrum)
 
-Open the ```ctf_sigid_flag``` file using one of the suggested tools and use you RF analysis skills to identify all the signals to create the flag.
+Open the ```ctf_sigid_flag``` file using one of the suggested tools and use your RF analysis skills to identify all the signals to create the flag.
 
 Flag format: flag{AABBCCXXYYZZ} - where AA, BB, CC, XX, YY, ZZ represent the signals' modulation acronym (as noted above).
 
