@@ -6,12 +6,12 @@
 Pre-analysis has determined that there is six signals (3 continuous/analogue and 3 discrete/digital) in total and could potentially be the following modulations:
  * **AMDSB**    (Amplitude modulation double side band)
  * **OOK**      (On-Off keying)
- * **PSK**      (Phase shift Keying)
+ * **PSK**      (Phase shift keying)
  * **FM**       (Frequency modulation)
- * **AMSSB**    (Amplitude modulation single Side Band)
- * **FHSS**     (Frequency hopping Spread spectrum)
- * **CW**       (Continuous Wave - Tone)
- * **FSK**      (Frequency shift Keying)
+ * **AMSSB**    (Amplitude modulation single side band)
+ * **FHSS**     (Frequency hopping spread spectrum)
+ * **CW**       (Continuous wave - Tone)
+ * **FSK**      (Frequency shift keying)
  * **OFDM**     (Orthogonal frequency division multiplexing)
  * **DSSS**     (Direct sequence spread spectrum)
 
